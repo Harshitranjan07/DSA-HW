@@ -3,7 +3,7 @@
 #include <stack>
 using namespace std;
 
-(vector<int>& price) 
+vector<int> price
     vector<int> span(price.size());
 
     stack<int> st;
